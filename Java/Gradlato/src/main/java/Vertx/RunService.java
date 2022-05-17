@@ -1,7 +1,6 @@
 package Vertx;
 
 import io.vertx.core.Vertx;
-import Vertx.DataService;
 /*
  * Data Service as a vertx event-loop 
  */
